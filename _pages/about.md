@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a second year undergraduate student from [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am advised by [Prof. Zuoqin Wang](http://staff.ustc.edu.cn/~wangzuoq/) from SMS, USTC. I am also interested in algebraic geometry and algebraic topology.
 
 Contact Information
 ======
