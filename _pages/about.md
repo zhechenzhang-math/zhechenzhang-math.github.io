@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Zhechen Zhang's Homepage(张哲琛)"
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
