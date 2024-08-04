@@ -15,4 +15,4 @@ I am advised by [Prof. Zuoqin Wang](http://staff.ustc.edu.cn/~wangzuoq/) from SM
 Contact Information
 ======
 
-[Email](mailto:zhangzhechen@mail.ustc.edu.cn) / [Github](https://github.com/zhechenzhang04)
+[Email](mailto:zhangzhechen@mail.ustc.edu.cn) / [Github](zhechenzhang-math)
